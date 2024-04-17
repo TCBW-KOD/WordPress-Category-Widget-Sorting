@@ -6,4 +6,4 @@
 
 ### 使用方法
 
-将Category Widget Sorting.php中代码添加进主题的 **functions.php** 文件后打开主题外观设置中的自定义中选择调整
+将 Category Widget Sorting.php 中代码添加进主题的 **functions.php** 文件后打开主题外观设置中的自定义中选择调整
